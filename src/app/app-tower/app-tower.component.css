@@ -1,0 +1,13 @@
+.Tower{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+.Tower img {
+  position: relative;
+  top: calc(50% - 32px);
+  left: calc(50% - 32px);
+}
